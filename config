@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	email = shweta@telesupporthub.com
+	name = Shwetu09
+[remote "origin"]
+	url = https://github.com/Amruta-k15/TeleSupport-Hub-Cloud-based-telecom-support-with-Flask-on-AWS.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
